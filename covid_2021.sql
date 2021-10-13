@@ -1,4 +1,15 @@
+--Superficially analyzing Covid data with tableau projections.
 
+--Data taken from https://ourworldindata.org/.
+
+--Software used: SQL, Excel and tableu.
+
+--To see projections see the tableau profile in the following link
+
+--https://public.tableau.com/views/portafolio1/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+--SQL querys: 
 --look for location and the total cases vs deaths, the mean.
 
 
